@@ -1,0 +1,15 @@
+C:\hoandk\.NET\AxieCalculator\AxieCalculator\bin\Release\netcoreapp3.1\AxieCalculator.exe
+C:\hoandk\.NET\AxieCalculator\AxieCalculator\bin\Release\netcoreapp3.1\AxieCalculator.deps.json
+C:\hoandk\.NET\AxieCalculator\AxieCalculator\bin\Release\netcoreapp3.1\AxieCalculator.runtimeconfig.json
+C:\hoandk\.NET\AxieCalculator\AxieCalculator\bin\Release\netcoreapp3.1\AxieCalculator.runtimeconfig.dev.json
+C:\hoandk\.NET\AxieCalculator\AxieCalculator\bin\Release\netcoreapp3.1\AxieCalculator.dll
+C:\hoandk\.NET\AxieCalculator\AxieCalculator\bin\Release\netcoreapp3.1\AxieCalculator.pdb
+C:\hoandk\.NET\AxieCalculator\AxieCalculator\obj\Release\netcoreapp3.1\AxieCalculator.Axie.resources
+C:\hoandk\.NET\AxieCalculator\AxieCalculator\obj\Release\netcoreapp3.1\AxieCalculator.csproj.GenerateResource.cache
+C:\hoandk\.NET\AxieCalculator\AxieCalculator\obj\Release\netcoreapp3.1\AxieCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\hoandk\.NET\AxieCalculator\AxieCalculator\obj\Release\netcoreapp3.1\AxieCalculator.AssemblyInfoInputs.cache
+C:\hoandk\.NET\AxieCalculator\AxieCalculator\obj\Release\netcoreapp3.1\AxieCalculator.AssemblyInfo.cs
+C:\hoandk\.NET\AxieCalculator\AxieCalculator\obj\Release\netcoreapp3.1\AxieCalculator.csproj.CoreCompileInputs.cache
+C:\hoandk\.NET\AxieCalculator\AxieCalculator\obj\Release\netcoreapp3.1\AxieCalculator.dll
+C:\hoandk\.NET\AxieCalculator\AxieCalculator\obj\Release\netcoreapp3.1\AxieCalculator.pdb
+C:\hoandk\.NET\AxieCalculator\AxieCalculator\obj\Release\netcoreapp3.1\AxieCalculator.genruntimeconfig.cache
